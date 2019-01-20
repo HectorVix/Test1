@@ -1,5 +1,9 @@
 Versionado código fuente!!!
 
+<<<<<<< HEAD
 Pruebas ramas !!
 
 ramas diferente nivel!!
+=======
+Pruebas ramas !!
+>>>>>>> master
