@@ -1,9 +1,5 @@
-Versionado código fuente!!!
-
-<<<<<<< HEAD
-Pruebas ramas !!
-
-ramas diferente nivel!!
-=======
-Pruebas ramas !!
->>>>>>> master
+16311abc,AE86,DeportivoModificado,Blanco
+27312abc,AE86,DeportivoModificado,Azul
+38313abc,AE86,DeportivoModificado,Negro
+49314abc,AE86,DeportivoModificado,Amarillo
+51015abc,AE86,DeportivoModificado,Rojo
